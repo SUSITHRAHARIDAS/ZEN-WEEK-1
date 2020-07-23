@@ -5,6 +5,11 @@ DOM
 https://myzentask.blogspot.com/2020/06/document-object-model.html
 STRUCTURE OF WEB BROWSER
 https://myzentask.blogspot.com/2020/07/structure-of-web-browser.html
+DAY 4
+HTTP1.1VS HTTP2
+https://myzentask.blogspot.com/2020/06/http-11-vs-http-2.html
+GET VS POST METHOD
+https://myzentask.blogspot.com/2020/07/get-method-vs-post-method.html
 
 
 
