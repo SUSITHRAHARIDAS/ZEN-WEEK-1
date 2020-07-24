@@ -10,6 +10,8 @@ HTTP1.1VS HTTP2
 https://myzentask.blogspot.com/2020/06/http-11-vs-http-2.html
 GET VS POST METHOD
 https://myzentask.blogspot.com/2020/07/get-method-vs-post-method.html
-
+DAY 5
+OBJECT & ITS INTERNAL REPRESENTATION
+https://myzentask.blogspot.com/2020/07/javascript-object-its-internal.html
 
 
