@@ -13,5 +13,8 @@ https://myzentask.blogspot.com/2020/07/get-method-vs-post-method.html
 DAY 5
 OBJECT & ITS INTERNAL REPRESENTATION
 https://myzentask.blogspot.com/2020/07/javascript-object-its-internal.html
+CORS & AUTH
+https://myzentask.blogspot.com/2020/07/auth-and-cors.html
+
 
 
