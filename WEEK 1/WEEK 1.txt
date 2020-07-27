@@ -5,8 +5,20 @@ DOM
 https://myzentask.blogspot.com/2020/06/document-object-model.html
 STRUCTURE OF WEB BROWSER
 https://myzentask.blogspot.com/2020/07/structure-of-web-browser.html
+DAY 3
+RESTCOUNTRIES
+https://github.com/SUSITHRAHARIDAS/ZENTASK-WEEK-1/tree/master/WEEK%201/Day3
+DAY 4
+HTTP1.1VS HTTP2
+https://myzentask.blogspot.com/2020/06/http-11-vs-http-2.html
+GET VS POST METHOD
+https://myzentask.blogspot.com/2020/07/get-method-vs-post-method.html
+DAY 5
+OBJECT & ITS INTERNAL REPRESENTATION
+https://myzentask.blogspot.com/2020/07/javascript-object-its-internal.html
+CORS & AUTH
+https://myzentask.blogspot.com/2020/07/auth-and-cors.html
 HEROKU
 https://countries-json-server.herokuapp.com/
-
 
 
